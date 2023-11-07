@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
+
+    <!-- Bouton Gestion des filières -->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gestion des filières"
+
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="16dp"
+
+        android:id="@+id/btnFiliere"/>
+
+    <!-- Bouton Gestion des rôles -->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gestion des rôles"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="16dp"
+        android:id="@+id/btnRole"/>
+
+    <!-- Bouton Gestion des étudiants -->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gestion des étudiants"
+
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="16dp"
+        android:id="@+id/btnStudent"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ajouter un etudiant"
+
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="16dp"
+        android:id="@+id/btn"/>
+</LinearLayout>

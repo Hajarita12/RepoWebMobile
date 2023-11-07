@@ -1,70 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![WhatsApp Image 2023-11-06 à 16 24 14_b3f5c5be](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/223a39a0-47da-4cf4-a9aa-ac49e361d06b)
+![WhatsApp Image 2023-11-06 à 16 30 10_be772c1a](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/f1ae61fb-bf3e-46cf-a18b-85aa46356c6c)
+![WhatsApp Image 2023-11-06 à 16 31 20_2455cb54](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/a8bd8a54-5c46-484e-ad01-993dfbd6ea7c)
+![WhatsApp Image 2023-11-06 à 17 12 18_5c5158d4](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/f18675ba-7060-4808-9761-0eb24ccccc56)
+![WhatsApp Image 2023-11-06 à 17 04 06_26f02fcf](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/1158ccd6-b0b3-4fe5-9b58-fed30b671a5d)
+![WhatsApp Image 2023-11-06 à 17 15 12_59cdb0f3](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/7ba7e64e-f2ae-4937-a3e9-688b64b46d84)
+![WhatsApp Image 2023-11-06 à 17 08 12_c347277e](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/423dc0aa-cad1-4a87-86b2-3c9759da2e25)
+![WhatsApp Image 2023-11-06 à 17 08 31_d0baea9f](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/c3c205b1-2529-42ca-82ba-3f88d99b5a27)
+![WhatsApp Image 2023-11-06 à 17 08 58_ea3ec5f7](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/1509beec-dc44-48f9-8af1-946dde6389f5)
+![WhatsApp Image 2023-11-06 à 17 10 48_1e08cc85](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/d3630efc-9e1d-4ae2-8bec-712bc98a96ab)
+![WhatsApp Image 2023-11-06 à 17 11 46_d3478fc5](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/294afdd7-c571-41cc-aee1-8fe879efe94c)
+![image](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/7a4159e9-73e1-4f4c-a238-447e9efdfc72)
+![image](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/4e7ba27d-2c33-4a03-9c70-b5eb095440ab)
+![image](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/abd7cd74-bad6-4165-8676-fccabad55729)
+![image](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/598ddd63-594c-4c42-bb83-6f3292c2f530)
+![image](https://github.com/Hajarita12/RepoWebMobile/assets/120518556/31feb3e7-e560-4bd7-97e2-958f919ca694)
